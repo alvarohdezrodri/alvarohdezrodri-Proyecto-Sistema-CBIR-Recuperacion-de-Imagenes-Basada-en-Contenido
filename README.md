@@ -1,7 +1,7 @@
 # Proyecto-Sistema-CBIR-Recuperacion-de-Imagenes-Basada-en-Contenido
 Sistema CBIR para recuperación de imágenes basada en contenido, que utiliza extractores como Color Histogram, LBP, SIFT y CNN. Incluye preprocesamiento, indexación con FAISS, evaluación mediante Recall, F1-Score y Accuracy, y una interfaz en Streamlit para consultas y visualización interactiva de resultados. 
 
-Este proyecto está organizado en una estructura de carpetas y archivos que facilita el desarrollo y la ejecución del sistema CBIR. A continuación, se detalla el contenido de cada archivo y carpeta.
+Este proyecto está organizado en una estructura de carpetas y archivos que facilita el desarrollo y la ejecución del sistema CBIR. A continuación, se detalla el contenido de cada archivo y carpeta. Además, a través del siguiente enlace, podrás encontrar las imágenes utilizadas en el proyecto: https://drive.google.com/drive/folders/1_P_OsKDcX9J_3mzeOnKlQIuTlg47lvNC?usp=sharing
 
 ### Autores: David Hernando González y Álvaro Hernández Rodríguez
 ---
